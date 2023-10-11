@@ -4,7 +4,7 @@ metadata:
   name: "rishabh-repo"
   description: "app to test backstage for existing repo"
   annotations:
-    github.com/project-slug: "https://github.com/shashankr27/rishabh-practice"
+    github.com/project-slug: /shashankr27/rishabh-practice"
 spec:
   type: service
   owner: user:guest
